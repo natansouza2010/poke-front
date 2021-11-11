@@ -1,0 +1,25 @@
+.pokemon-card{
+    margin-top:16px;
+    ul{
+        display: flex;
+        justify-content:center;
+        margin: 0px auto;
+        border: 1px solid;
+        padding: 16px;
+
+
+        li{
+            display: flex;
+            list-style: none;
+    
+        }
+        
+    }
+    button{
+        margin-top: 16px;
+       
+    }
+
+
+    
+}
